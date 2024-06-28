@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
+/* Dejo el root incluido, pero al final he acabado poniendo el color manualmente porque, ni idea de por qué, la var() de repente ha dejado de funcionar y no sé cómo "activarla" de nuevo */
+
 root {
   --background-color: rgba(63, 61, 61, 0.185);
 }
