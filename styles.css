@@ -80,7 +80,7 @@ button {
   background-color: rgb(123, 215, 231);
   border: 1px grey solid;
   border-radius: 5px;
-  font-style: bold;
+  font-weight: 700;
 }
 
 #partners {
