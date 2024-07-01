@@ -60,6 +60,7 @@ header > nav {
 
 .heroinfo {
   min-width: 516px;
+  text-align: center;
 }
 
 #hero > img {
